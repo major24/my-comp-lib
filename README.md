@@ -8,8 +8,9 @@ in dist, pack the project
 Install from consumer project.
 
 Commands:
-$ my-comp-lib/npm run packagr
-$ cd dist
-  dist $ npm pack
+>> my-comp-lib/npm run packagr
+>> cd dist
+  .. dist >> npm pack
+
 
 This should build the project
