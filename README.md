@@ -7,7 +7,7 @@ in dist, pack the project
 
 Install from consumer project.
 
-Commands:
+Commands
 >> my-comp-lib/npm run packagr
 >> cd dist
   .. dist >> npm pack
